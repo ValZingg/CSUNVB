@@ -3,700 +3,700 @@
     "id": 1,
     "initials": "JDE",
     "lastname": "Doe",
-    "password": "*6142D5FF4A80F4DBF31BC036CCA42FB510B8C71A",
+    "password": "$2y$10$ZplHbYimTZ5P1fQqYiFRwOOfxeivt.gFUvsm9v1cRR.ko72ApkY8y",
     "firstname": "John"
   },
   {
     "id": 2,
     "initials": "JSN",
     "lastname": "Sampson",
-    "password": "*74C915434491C709D726278C8423D160B5CC1AE9",
+    "password": "$2y$10$SX\/gkps4g6rTwMpu5fSqeexdio10Z0ZkP912mO3kyVoshqW6HD\/RW",
     "firstname": "Joseph"
   },
   {
     "id": 3,
     "initials": "SCN",
     "lastname": "Compton",
-    "password": "*F682C1D81E8E4147D43B4A39D6541CEAA1E30AF5",
+    "password": "$2y$10$zcR7EZ4s4W4qpuWywd0oTOzFGJ..ja\/Ev53HjqYSN6Kpp44pAEoty",
     "firstname": "Sheila"
   },
   {
     "id": 4,
     "initials": "KRH",
     "lastname": "Rush",
-    "password": "*EAE741A9EF56BFED3FB9B342C1A1FEDE98BFF675",
+    "password": "$2y$10$aAyhXLKF.BwUstquUHBi7.Lj9Zbv7iUXfBfDVM4VJDtjBGQbNrAQ.",
     "firstname": "Karly"
   },
   {
     "id": 5,
     "initials": "ORN",
     "lastname": "Ryan",
-    "password": "*C5CC90D71E5DC31DB98D6C5D29835C6A5AADF3A0",
+    "password": "$2y$10$zJJgmAQYBl18XKvhhy1hg.TUPezSjzaKVxjjd1qxcd4UB8AG7bqHy",
     "firstname": "Orli"
   },
   {
     "id": 6,
     "initials": "KSY",
     "lastname": "Stanley",
-    "password": "*8C251AA0CAAF8FA6588B6FA8B3AB2C44891EF1D8",
+    "password": "$2y$10$8NGiiFMTRSFtDCAXVSPPAekPXQLyF4nBVDQOh2DR9161ykmsAwDei",
     "firstname": "Kiayada"
   },
   {
     "id": 7,
     "initials": "AVG",
     "lastname": "Vang",
-    "password": "*885387C6B804CDABBE7A4B33A89137531AD0A4A2",
+    "password": "$2y$10$X0n6SXY9saZbwRq1DmeRludWmC3Qsa932UCUyAPAQ2hT9xrSwzU1a",
     "firstname": "Amaya"
   },
   {
     "id": 8,
     "initials": "TVN",
     "lastname": "Vaughan",
-    "password": "*588B6CBF2FA70CA6A410DD75664AD358F44ED422",
+    "password": "$2y$10$rS2olHKZaTb7E.2H8w7bvuYMqFKJ9TDVOxxChN\/DNFZkBWpQLldx.",
     "firstname": "Thane"
   },
   {
     "id": 9,
     "initials": "AHF",
     "lastname": "Huff",
-    "password": "*7869C7A5800F08AA7CD5079D4FBBBE3AE1AC583A",
+    "password": "$2y$10$zesdDjxZ1dU2HRSercgZj.CIxldRn6ej6cYoiJqq9s\/IWesaa0MTO",
     "firstname": "Asher"
   },
   {
     "id": 10,
     "initials": "ZGT",
     "lastname": "Garrett",
-    "password": "*DBCB9C7BA638039461BA8B53D494358A1EEC1DA1",
+    "password": "$2y$10$fVt70g9hpczjQWOlCCw.runvKPaEm.0XjHYwmhERy\/hcJBfD\/.qGW",
     "firstname": "Zenaida"
   },
   {
     "id": 11,
     "initials": "YBR",
     "lastname": "Brewer",
-    "password": "*417A862EC4492EC78096BB5FC226EEA46F81DB5F",
+    "password": "$2y$10$Gax.bJO4.n6rlJ11g6jr5OkFe54rtM2tPx17cOMYYmtCZ0JbxXHs2",
     "firstname": "Yuli"
   },
   {
     "id": 12,
     "initials": "NFD",
     "lastname": "Floyd",
-    "password": "*665F97F594D1D1E65897AE47E30CB9F63F7D3C29",
+    "password": "$2y$10$.mZtDG33.MKqrNrANpsgle3GUKu989MrNkZn9W18PN9D34AsQONgS",
     "firstname": "Natalie"
   },
   {
     "id": 13,
     "initials": "AAZ",
     "lastname": "Alvarez",
-    "password": "*02EAC62C82891E8F9EA5DD915192CD1E1B39EF03",
+    "password": "$2y$10$V2w3HPSpvuK5W\/.XVrxxgu\/Zo78.nfWHwJj17wwYn1Vc1mj4hI0ae",
     "firstname": "Aquila"
   },
   {
     "id": 14,
     "initials": "TKP",
     "lastname": "Kemp",
-    "password": "*08C5B98E335B3EFAC36E4CA536AD0A50BBA1E1D9",
+    "password": "$2y$10$98.FP\/Z1H4mDlewrIeyMCeBdjrJFajfta6wRFzaKe8mXxu8bme1B.",
     "firstname": "Tamara"
   },
   {
     "id": 15,
     "initials": "AWS",
     "lastname": "Watkins",
-    "password": "*A1C5EE89608D4B84D33082D1094266FF2F51B111",
+    "password": "$2y$10$okndE69OEIwdGuFn2rXi1eAjEwalK5GcztIyByYi6v2UJOABXn1J2",
     "firstname": "Ariel"
   },
   {
     "id": 16,
     "initials": "ACK",
     "lastname": "Cook",
-    "password": "*C303824D7CA17C1FAA932567DE9F9BD11B3A14EA",
+    "password": "$2y$10$xJPb1dqZMsbApQygX4N0Ceap9l4.tO2f.PJ19GIMVCc5VYAiq3dJi",
     "firstname": "Adrienne"
   },
   {
     "id": 17,
     "initials": "JRS",
     "lastname": "Rivas",
-    "password": "*B97482C621B1AE364B23BC540EB72E12D72FEC88",
+    "password": "$2y$10$ZkJ.GSMgApv6pC\/BJpMkpOpSOmBalQkj7\/lWDgzjF\/veunuH53riS",
     "firstname": "Josiah"
   },
   {
     "id": 18,
     "initials": "RKR",
     "lastname": "Kramer",
-    "password": "*9373125663D75C196660C08F325BE5C2B5F2FACE",
+    "password": "$2y$10$7ZA5tAYZ6G00BDtuunh9RuCIw0b\/vXr8Kr8MlCVnowAD\/XKFNwYwS",
     "firstname": "Reuben"
   },
   {
     "id": 19,
     "initials": "ROA",
     "lastname": "Ochoa",
-    "password": "*14249C7AE0FFC517FA2110206807854FA9E390A1",
+    "password": "$2y$10$6W.hSCVJtZIeL3lDAexTT.9dlMyRz1HAqkjVQnnL3VJT2OG\/VenOm",
     "firstname": "Raja"
   },
   {
     "id": 20,
     "initials": "JWY",
     "lastname": "Whitley",
-    "password": "*04195CCBBCCCE46EB55FB39A2C0DA1EFFEE7C940",
+    "password": "$2y$10$zF577gKAgzCeirBOs4NI5OV9Mnb5HG86Zeyu6burAk\/Pj6EiB\/nua",
     "firstname": "Jerome"
   },
   {
     "id": 21,
     "initials": "HFD",
     "lastname": "Ford",
-    "password": "*87DAE891987EE00683848E0F4BC8F3B9FB451909",
+    "password": "$2y$10$C5OazZJqbSQncLMS1hfXdOGAsh8o4amDemjgxiQUIIhWCGIvKlm1S",
     "firstname": "Hiroko"
   },
   {
     "id": 22,
     "initials": "CRS",
     "lastname": "Rollins",
-    "password": "*455891F4A0AEB4E3C08E2D75FD0F064D62272158",
+    "password": "$2y$10$ugjh4gA.f14pP2\/5XKlYL.qJrX2o02NJLyjbsEdfDeea.o2nSELOK",
     "firstname": "Carson"
   },
   {
     "id": 23,
     "initials": "AJN",
     "lastname": "Jensen",
-    "password": "*68B16E20DBF3065F17A764376CB3B5411BB97E45",
+    "password": "$2y$10$apLpXs7tmxnbk4DYCQJpJ.eq4hN00kqhU4f4p8nxUfgs9RlNY9UzC",
     "firstname": "Amena"
   },
   {
     "id": 24,
     "initials": "QWB",
     "lastname": "Webb",
-    "password": "*74AFD81711816C50CDB80FFD0BE9BC2D0A00FC4A",
+    "password": "$2y$10$4yD7ADiIB2BiFlKRCwYPI.vhGlsx4OXATe.NC8ZiU1eOZ8tZAnHCS",
     "firstname": "Quail"
   },
   {
     "id": 25,
     "initials": "MGE",
     "lastname": "Gamble",
-    "password": "*04F7BE1F54CEFB76F5B8EBB08E05194F980E8B9D",
+    "password": "$2y$10$WbDps015Ae6kuG2g9mUkb.5L7Yume5SSNW\/9Jwfzgkmo\/W0adH6cy",
     "firstname": "Malachi"
   },
   {
     "id": 26,
     "initials": "CKP",
     "lastname": "Kemp",
-    "password": "*34D9E5870861D5BB1527C648C4EB6771154962FF",
+    "password": "$2y$10$diCZ3jwZO8Aq\/gTGQG4W7u3juo.uHVMbJ8yVB9leB3I\/0Hk1P8t4S",
     "firstname": "Caleb"
   },
   {
     "id": 27,
     "initials": "KRO",
     "lastname": "Rosario",
-    "password": "*C45F55D586EE62B53B15592F4D6370A38B47A330",
+    "password": "$2y$10$4ccAcqq5iJQ7VHvTYCiOJ.RNYlU5.ssk25VCCNfcgP\/w36vZU0pPq",
     "firstname": "Kellie"
   },
   {
     "id": 28,
     "initials": "RHT",
     "lastname": "Hewitt",
-    "password": "*8991F4C4639F3C144495D5A2821F7C1DBF9ED7F4",
+    "password": "$2y$10$8PBDqlTWtjJWQrKnqZaKZu6tctBfAPSW2M4r7UX\/MNTGT479pchSG",
     "firstname": "Rebekah"
   },
   {
     "id": 29,
     "initials": "SRS",
     "lastname": "Roberts",
-    "password": "*8C8D54E0B302C9D0E4BD9273EEAD9657270F52F4",
+    "password": "$2y$10$bIb.z06hV8S7vz31IftUheYtyuhTLEB7gk7HD\/BpR4ONwh1RuWCRO",
     "firstname": "Silas"
   },
   {
     "id": 30,
     "initials": "TFS",
     "lastname": "Fields",
-    "password": "*1E8309B513AD800435E37F85AC991C1FF7BBCE05",
+    "password": "$2y$10$rAz\/cCYEU9ncRfxoE5RMEODls.QURqDSAKEcZK8wKj9Huq.ugscwG",
     "firstname": "Tarik"
   },
   {
     "id": 31,
     "initials": "SPS",
     "lastname": "Perkins",
-    "password": "*47AEE5200E9B7CC44BFC5183FB5EC1467AB4DF88",
+    "password": "$2y$10$\/J3WpQ2rhylkmLDVrrv5E.RWCxHt5v.KyJWS6sChmNWR\/CuqtYvSS",
     "firstname": "Shad"
   },
   {
     "id": 32,
     "initials": "JJZ",
     "lastname": "Juarez",
-    "password": "*E07F4C81E1108F885068C17E65036DFE3AA149F9",
+    "password": "$2y$10$tBzN\/a8PGkC.u4qaSxiwH.mySh7RQnVZytWW1KXPWrRj\/fQsKZERe",
     "firstname": "Jaquelyn"
   },
   {
     "id": 33,
     "initials": "HSZ",
     "lastname": "Schultz",
-    "password": "*EDD3E491BEF2FBD8B3F28F1F58FD65801CB8578C",
+    "password": "$2y$10$VM0DeS9eJ\/qCmz4eimpzru\/HdcYW8T9BNIrhLlpdEsFes\/imEacsG",
     "firstname": "Hyacinth"
   },
   {
     "id": 34,
     "initials": "SAS",
     "lastname": "Atkins",
-    "password": "*CDA3BCB59FECE5BA6EF2E50C351C6E426AEB873E",
+    "password": "$2y$10$Lk9Xxhnw59cED\/C8qClRM.2KmRfPxqt2YzXeAWoTh1\/OLT1o5NIJu",
     "firstname": "Shaine"
   },
   {
     "id": 35,
     "initials": "BPT",
     "lastname": "Pickett",
-    "password": "*EB90C30DCB421B395A9F2B457BBC29488DAE6501",
+    "password": "$2y$10$9CniI20tbwgqL7mQID8iYusEojR3l33.IhzhSa.iVOkkXDGJuscoK",
     "firstname": "Brian"
   },
   {
     "id": 36,
     "initials": "SNS",
     "lastname": "Norris",
-    "password": "*AFF208F72B5D041E588A1D1A30BC92E2F5B510BD",
+    "password": "$2y$10$2bJQYqfaJYe6LecT9CIdMueBt7N8RL\/cDB96fF4BX6LxE74YbbP7W",
     "firstname": "Sara"
   },
   {
     "id": 37,
     "initials": "HPN",
     "lastname": "Peterson",
-    "password": "*8CA8A4EF06A101BD8C333B34853F263BE5D5B5A0",
+    "password": "$2y$10$Yhiax67wIHUGrNMfmtg.nu9Os4ktRaSFQ5xIJw.C38W9LMNhFSj\/6",
     "firstname": "Howard"
   },
   {
     "id": 38,
     "initials": "MML",
     "lastname": "Mccall",
-    "password": "*2CFDC422B7886DF9441882AE15AFD32B15955FAF",
+    "password": "$2y$10$lZXRR8ltWU.VXO7zHOvluOgjHHc5Bf\/iAWXlfaB25Jf.5veCS1.Mm",
     "firstname": "Melinda"
   },
   {
     "id": 39,
     "initials": "KJH",
     "lastname": "Joseph",
-    "password": "*9FBC0F45E76D8744CE9BEAC70979B6968374E71A",
+    "password": "$2y$10$4A3L78s4mYdUKZjCS9x.1OkV1gTHWtDWng7oeaIJSV24IUknEWKtK",
     "firstname": "Kylie"
   },
   {
     "id": 40,
     "initials": "EHS",
     "lastname": "Hayes",
-    "password": "*DB78D53FB211491933AF8C5218610156C66B0EBF",
+    "password": "$2y$10$AMMXRhVryglam83PjAQGzuuitKzmoR1vfCMXVGwq2A5XvwRCv9Xwm",
     "firstname": "Ezra"
   },
   {
     "id": 41,
     "initials": "SDR",
     "lastname": "Decker",
-    "password": "*F20E6B8FC8AC8149F651370172A6B7A59050DAB9",
+    "password": "$2y$10$.MCW1pgN2CQhgs2Zc\/oZIOTkIjZL8tB9IS4H4l7W\/Y6Hf9FBghSc.",
     "firstname": "Shannon"
   },
   {
     "id": 42,
     "initials": "IVA",
     "lastname": "Vega",
-    "password": "*F628992BCB9E15488A100F63BF1D49727C37C3CC",
+    "password": "$2y$10$3tuc6jovcwWA3QxCikAocOATPFBNa5Kg4zmj98oQcwOLEH1ejRGue",
     "firstname": "Igor"
   },
   {
     "id": 43,
     "initials": "RPN",
     "lastname": "Petersen",
-    "password": "*680041A935DE21119B411FE2E951503D5C266569",
+    "password": "$2y$10$r0kJ\/nLFyWZ.5VLVZdOP.e0393LaMXavtQWJodizy4tsVlefeCj6e",
     "firstname": "Ruth"
   },
   {
     "id": 44,
     "initials": "ZPE",
     "lastname": "Price",
-    "password": "*715ED616381136AE9B28C4DA08A09A1CD4EE62F6",
+    "password": "$2y$10$jY5G1cf5gs9IkkxgpoHhiOoukgQsYr9G626pn2Zf0nKTF\/gegDSgy",
     "firstname": "Zena"
   },
   {
     "id": 45,
     "initials": "GLT",
     "lastname": "Lambert",
-    "password": "*D4866E2ADD503982CBA8EF9E754AA2B9DF40759E",
+    "password": "$2y$10$Ve0jcc9Gsmb2SvPHQWyrMuobbmyikhOR8q\/Vp5FpgRI221mj7OvDK",
     "firstname": "George"
   },
   {
     "id": 46,
     "initials": "ACE",
     "lastname": "Cote",
-    "password": "*15110E5B5DAB8E1CBBCE0E384D49B71A1650E204",
+    "password": "$2y$10$AOyGWTUNiKl84njr\/P4IOOM0vefIDhnyDkh6VYA1vIE9Q3fNrl03W",
     "firstname": "Anthony"
   },
   {
     "id": 47,
     "initials": "LWN",
     "lastname": "Wilkerson",
-    "password": "*E816701DBDC75F0FD42251B00F95FED9DAAF973E",
+    "password": "$2y$10$o83FB\/TI.65v7WUdam0DLe.5.JoqMcAZ6ogsAyGdhHOyruTpf7bMC",
     "firstname": "Lee"
   },
   {
     "id": 48,
     "initials": "IMN",
     "lastname": "Martin",
-    "password": "*F2D0C5CBE1E3DEE46CD286F4F41BC982DFDB401C",
+    "password": "$2y$10$gIvlJ5ibB2hnesbRlPt8qOVzPp3U5P\/P6lkoTAfCj7P8avXrFZT6G",
     "firstname": "Ishmael"
   },
   {
     "id": 49,
     "initials": "WFE",
     "lastname": "Frye",
-    "password": "*EF66A0DD1F1AB0BB2ECC915980D8BC0E966A8187",
+    "password": "$2y$10$xSmdd2pBFk5gwszEpewFsOduaAFzLGuhob2jh2zYyEFAm\/kmYpjnm",
     "firstname": "Wallace"
   },
   {
     "id": 50,
     "initials": "GAO",
     "lastname": "Alvarado",
-    "password": "*55F804181E031126659413783545436010C47129",
+    "password": "$2y$10$PmmkiJujHW0H8e8Sh.ok.ueQEjI5UcILFhiuBhvuExePVgcY\/02K6",
     "firstname": "Gillian"
   },
   {
     "id": 51,
     "initials": "SST",
     "lastname": "Schmidt",
-    "password": "*920EFAC14F42F2255B860FAD1E0DB121B5FBA111",
+    "password": "$2y$10$MDC2\/q8B6eL8np7Wph6L4u9S6ypDZOPPIpY8Q0hNfzzXTyuRHSzbS",
     "firstname": "Simone"
   },
   {
     "id": 52,
     "initials": "ERD",
     "lastname": "Richmond",
-    "password": "*8F7BC084D39B2939DD3C51A081756A6C5EF0C893",
+    "password": "$2y$10$cwRlr6QRuIEEbJlTQsRJA.oHmRl6v0B67dDaHJZhsAuAIYrEbRd5e",
     "firstname": "Evangeline"
   },
   {
     "id": 53,
     "initials": "MKD",
     "lastname": "Kidd",
-    "password": "*E482ED0835A190F09BFA224CF17B2F7CD7B40B3C",
+    "password": "$2y$10$uWny\/AdVGGEev18Qc4wp3u9LMvxq23qB5p4G4UeAP6oFCeZHFVkt.",
     "firstname": "Maia"
   },
   {
     "id": 54,
     "initials": "CHN",
     "lastname": "Hayden",
-    "password": "*54E595D523B3DE8DC43EBF240B28E09261BA77BF",
+    "password": "$2y$10$4wBfMr4mA3DMta4NvWzyjusVXQpyJPD5bF19ItcDCu6lX8HAYKZDO",
     "firstname": "Cyrus"
   },
   {
     "id": 55,
     "initials": "IFY",
     "lastname": "Fry",
-    "password": "*0EAA015478266752BE4E6FA8B0A0F62661136BC8",
+    "password": "$2y$10$IeKe1uGU5tSB6WU.5frSZOkF\/6PMiUEwC8wZr3baS4XxdE5GtiUOa",
     "firstname": "Irene"
   },
   {
     "id": 56,
     "initials": "JMS",
     "lastname": "Mullins",
-    "password": "*F069F09F8B45466BCC2D1FBA11444FD8065A7E5F",
+    "password": "$2y$10$0Z2byOZ.sSgq.Kjy7EuQnOmp1BW63B2AaQjDhAhKP4uJSRbhBL4xG",
     "firstname": "Josephine"
   },
   {
     "id": 57,
     "initials": "DLY",
     "lastname": "Landry",
-    "password": "*69C97DA73D35A608AF1CCEE9B93DC868A2E92764",
+    "password": "$2y$10$BqF60sdanDURxwAWCGUGU.ppM0\/A0mCN\/n1d4CNdUo4OEJPmKmaHK",
     "firstname": "Dakota"
   },
   {
     "id": 58,
     "initials": "EEA",
     "lastname": "Estrada",
-    "password": "*87FA0240311BB8C9174B313A4CB1A2D9434AD55F",
+    "password": "$2y$10$oIyjrg8L2rvSfdjxGyvGuehCm41hQwjrMuBVdoHiRRKwF.1ZpTbNy",
     "firstname": "Emily"
   },
   {
     "id": 59,
     "initials": "LMA",
     "lastname": "Mejia",
-    "password": "*6601D84029CFCCC76DCD7FC5528619BD7CF0D8C3",
+    "password": "$2y$10$PsZs9oR66G9OnC568T2PIeN57kvoK2F0\/jac\/o2OYt9g.ZvNiFze2",
     "firstname": "Lucy"
   },
   {
     "id": 60,
     "initials": "FBK",
     "lastname": "Buck",
-    "password": "*48475BEFB30E40366F9751AF2643E076415B05D9",
+    "password": "$2y$10$uUe5BMbt\/MGmHXsdDZp.eeoNCVF8Kprsj0JTcgJRMiv5OPLb8J22q",
     "firstname": "Flavia"
   },
   {
     "id": 61,
     "initials": "SME",
     "lastname": "Malone",
-    "password": "*4EBAF9B96CF732DAB6BFF5A99BF765F9F9286EAB",
+    "password": "$2y$10$w\/7IWLmMWuXArrry4sIVy.c3ZHB5B4X4hFCkNCRmQloxPJihWJARa",
     "firstname": "Shana"
   },
   {
     "id": 62,
     "initials": "LRZ",
     "lastname": "Ramirez",
-    "password": "*6BF20AEB48BACAE615DE8D1149C0CCC6CA49D686",
+    "password": "$2y$10$WLt9neBd.mZ\/RcGk.vNd9OBhWOLswhw43Pfpq3bO45SH3mUq6ngjy",
     "firstname": "Logan"
   },
   {
     "id": 63,
     "initials": "LEN",
     "lastname": "Ellison",
-    "password": "*C284C58AC27BBD130BC09DEDEF0C50114D31CB7B",
+    "password": "$2y$10$Hd7N0l0yCfpdKVl9\/ndF6.bGruh60lELizQxIRuU7M.S.\/GJY735.",
     "firstname": "Louis"
   },
   {
     "id": 64,
     "initials": "OCE",
     "lastname": "Cole",
-    "password": "*C9F2EB0E282D0EC96A3615FF5C519139347ACB38",
+    "password": "$2y$10$0\/9a7fIEtfgNCotN.5PJIeKC6af5ZLC7UUNlyjP\/NLfSd0dLIqhjS",
     "firstname": "Oleg"
   },
   {
     "id": 65,
     "initials": "MWY",
     "lastname": "Wiley",
-    "password": "*B002DABB82C2F26D8B7459415017C312F9994523",
+    "password": "$2y$10$oVK0cjHwcK2BZfVnWhm3KuFa5gcMs1EXUm.FxncQBxNjG1P8f8CI.",
     "firstname": "MacKensie"
   },
   {
     "id": 66,
     "initials": "JGE",
     "lastname": "Gilmore",
-    "password": "*CC411806F658FDD1167B4A26E80A40A82C1EEFE1",
+    "password": "$2y$10$ct3jE.rXkDHZGP7eoShtBOa2gWXsvI10ardwxYf9.k2zJx34aTMJG",
     "firstname": "Jamalia"
   },
   {
     "id": 67,
     "initials": "ISE",
     "lastname": "Steele",
-    "password": "*4C8D1F508D72BB8C1361D9A718205496D5108407",
+    "password": "$2y$10$xg2Ppt7.EEPVAZDLqOa71uPJ.KLKkL7M7Nm\/a.WNVm17HAjgd934y",
     "firstname": "Isaac"
   },
   {
     "id": 68,
     "initials": "GFS",
     "lastname": "Fuentes",
-    "password": "*995F075E23CDD795EB0C132C96D598E00DE7A843",
+    "password": "$2y$10$qllmd1Q9e5GbjWNHaHZVeeRgoaL0azMvWYk07mXMNYRwfNgp1TXSm",
     "firstname": "Gisela"
   },
   {
     "id": 69,
     "initials": "OFG",
     "lastname": "Fleming",
-    "password": "*D18FD9D1F7C01E82DDB4B03C0A1E215957382C70",
+    "password": "$2y$10$Pueqezp5qHchKktAgzgDW.3cUeC\/KLTaUy3aOGV8.EKA4EHT1bthS",
     "firstname": "Ora"
   },
   {
     "id": 70,
     "initials": "RNN",
     "lastname": "Nolan",
-    "password": "*3B8A9CFDAC3E25874F125AE082A1C52A7610EAE0",
+    "password": "$2y$10$O71mq3TU3xsvjLoKkJfV5eTzRgKePxW1I2Nye6igz8YUpy6HlPOqS",
     "firstname": "Raphael"
   },
   {
     "id": 71,
     "initials": "EPA",
     "lastname": "Pena",
-    "password": "*A366559C5599B930A9BF55A4DFA07F597FB16816",
+    "password": "$2y$10$vkdLj5K.DnqgntQjNWNlH.SLvNUyUdCRd3cwVdn7zwXg3jJnTvGp.",
     "firstname": "Emerald"
   },
   {
     "id": 72,
     "initials": "IKP",
     "lastname": "Knapp",
-    "password": "*842786D09D16FE1DCD73D83B0B0FFE058D55810F",
+    "password": "$2y$10$I2QindeSBOedfNqMYDlaHOo91VKtvr.7CVKbHMstKFAoUIsXv.DLy",
     "firstname": "Ingrid"
   },
   {
     "id": 73,
     "initials": "GPS",
     "lastname": "Parsons",
-    "password": "*7B0610E54654ACF0BA66E62B9298D9169999A37B",
+    "password": "$2y$10$5ej6DaoQiBn6oAh8\/Ezn2.V4pwMz4Oz7bgE5iy78OKdMnmz3GeYHC",
     "firstname": "Gannon"
   },
   {
     "id": 74,
     "initials": "ARS",
     "lastname": "Rios",
-    "password": "*908CF18F5E31E70F96592126C6468A3A630351E5",
+    "password": "$2y$10$HomJ6ZpRKwTiUIPY7Gifz.CxMRFYmDl3cqts2UQ\/XaZDJ3WEX3Efe",
     "firstname": "Amena"
   },
   {
     "id": 75,
     "initials": "PHA",
     "lastname": "Herrera",
-    "password": "*7855FE99374297E89CD8DD13168B68D8283E7F9A",
+    "password": "$2y$10$ZtEpf5kvx0eyHoz0BRMV1.TN72S4JUQQfpDFakkgzOl512qwo.64i",
     "firstname": "Phillip"
   },
   {
     "id": 76,
     "initials": "HBL",
     "lastname": "Bell",
-    "password": "*EFDF3D65070956C3D53742250116E694680D4B78",
+    "password": "$2y$10$7LB032sREOZmRbubJCy70epgJvTQbkf.e4T6CWA1eXKedenuoiRba",
     "firstname": "Hyatt"
   },
   {
     "id": 77,
     "initials": "ABP",
     "lastname": "Bishop",
-    "password": "*77B7148C717C7611791471C8E89B87972F7C2AF6",
+    "password": "$2y$10$jbXZB8oa9JBF\/vUEIY6NDuwdB6fX47kRZfxj86xAt6dQftR73bWWW",
     "firstname": "Audrey"
   },
   {
     "id": 78,
     "initials": "ARY",
     "lastname": "Ray",
-    "password": "*4E70EB2CA16904FCC4AB407D3F9A22560BFBA844",
+    "password": "$2y$10$J7sJunAq7vR2OVTGA9b1RuuGFf8qnk0CnlP70XLq\/7DD7FD4IVY2K",
     "firstname": "Amir"
   },
   {
     "id": 79,
     "initials": "MWS",
     "lastname": "Watts",
-    "password": "*1F9961BB31AD34C3915D19A5AC4EB82682A608ED",
+    "password": "$2y$10$70eiBh8vxQGO59\/0nEJFRurvK.Ne2epUOyeL7F7om5T27ECMYenlO",
     "firstname": "Michael"
   },
   {
     "id": 80,
     "initials": "SHN",
     "lastname": "Holden",
-    "password": "*D9E939BB470C1422F642AD2BFB0BEA21B392C3CD",
+    "password": "$2y$10$GUlDcl\/kq\/7itHRlBfWgxun0FjVZdvfB.2wYMoOXep7lsnJCkfEVi",
     "firstname": "Shana"
   },
   {
     "id": 81,
     "initials": "HHD",
     "lastname": "Howard",
-    "password": "*A46F3781C842374197A75F92ABCBB232AEA3CA05",
+    "password": "$2y$10$.Er4j\/LDWv2qAkgj.b.fVutkekABlI9iNRxFdwldVaBsd3fM6DJ3a",
     "firstname": "Hayley"
   },
   {
     "id": 82,
     "initials": "LTR",
     "lastname": "Tanner",
-    "password": "*B9E484E0CEE1B42CF48D96C0F3D92EABB6AD8ECF",
+    "password": "$2y$10$dJ2z\/T9T0j4m7.ax814aGOZFAiLbsh5A9705rx.SLykv08pn2cPZm",
     "firstname": "Leonard"
   },
   {
     "id": 83,
     "initials": "BMN",
     "lastname": "Mcclain",
-    "password": "*9E9D4111E95302E52AEE19EF364059D1D8B2AD6A",
+    "password": "$2y$10$uqCwuAsX1R5o8\/fHV1aXa.77K.9trAaJXfAMK\/xnYtGgwZnfsLHgq",
     "firstname": "Basia"
   },
   {
     "id": 84,
     "initials": "FSA",
     "lastname": "Silva",
-    "password": "*6E24EC546AB700029091261B72F27590C30EB006",
+    "password": "$2y$10$16CeTrB5J1TSxhJXrzBbFOxo1.i2j0kkU5DUIizhlzGEj93dpiNJu",
     "firstname": "Fiona"
   },
   {
     "id": 85,
     "initials": "PFS",
     "lastname": "Forbes",
-    "password": "*C105AE61395830D26001DBF5B956AFFEC9210D85",
+    "password": "$2y$10$mh5Vnfi9ZtA0ISk2Q2LuWOmsy8lpRi5PpS.sqDBivSqWv5Kq7FWT6",
     "firstname": "Plato"
   },
   {
     "id": 86,
     "initials": "HCR",
     "lastname": "Carver",
-    "password": "*F0959E3B2B0C9EBCEFDD218D9ED9FEFEBE511B3F",
+    "password": "$2y$10$3ADilSGNdcoafPCd8kYxh.myumWkGCXUBfMbR02QN3rfbuLsOqKNe",
     "firstname": "Hilda"
   },
   {
     "id": 87,
     "initials": "ILY",
     "lastname": "Levy",
-    "password": "*749067F97A5B1615DB663EB6DE771E7B9A8BC311",
+    "password": "$2y$10$LTu4a6cBNL4sbDna4xuncOl6jkzwzSlT8z09WH8Gjp0Rnq\/VhKUQG",
     "firstname": "Irene"
   },
   {
     "id": 88,
     "initials": "OHR",
     "lastname": "Hopper",
-    "password": "*2F65A9DFBEBEAC130B251D9EA8EE7D200E3839AC",
+    "password": "$2y$10$ySIidTKWJZiZolsd..STUOjXr1q5T5\/NDtwQHLftySwksawt.WqEO",
     "firstname": "Odysseus"
   },
   {
     "id": 89,
     "initials": "LBH",
     "lastname": "Burch",
-    "password": "*9EC33E4893555DB5754C7AD24FA3461E0A3E546A",
+    "password": "$2y$10$T3CynQist.JfbUrs1Rh4ReRAi6li.FacyK.pnAJDi0YdwUWJm7b2W",
     "firstname": "Libby"
   },
   {
     "id": 90,
     "initials": "ACY",
     "lastname": "Cherry",
-    "password": "*1A67ABAFB20B5716BDCB84790CE462B90D59F61F",
+    "password": "$2y$10$O.pyKVmxlC3wFl5C3pQQYuFjDlmtk4wqSSeh0lk.yqOlbTiKHJ2t.",
     "firstname": "Ayanna"
   },
   {
     "id": 91,
     "initials": "LAS",
     "lastname": "Ayers",
-    "password": "*10B17A0EA9F0FA10F23BECB0A395B6EC64B61C2E",
+    "password": "$2y$10$347ai2zEPutummxdjy3aeOUXRq842EYnQUnj3D1kWDu.vj1.2DlSO",
     "firstname": "Lysandra"
   },
   {
     "id": 92,
     "initials": "WRH",
     "lastname": "Rush",
-    "password": "*BD3DD8E060398280552494C85312817E5F270D11",
+    "password": "$2y$10$k1vzA4ilxwFsMxe1G6HEuOcKLEHzsL7hmv8i0aRUDv1fQ6cvicp7u",
     "firstname": "Wendy"
   },
   {
     "id": 93,
     "initials": "ASD",
     "lastname": "Shepard",
-    "password": "*F5F221404CB82FE3C16AD1A7F9A71437E4DC82D6",
+    "password": "$2y$10$EvRocvnFg5h.VpJuY2hZUeeUuT1dsjrfEHms1fw.XL99GYVszSzyO",
     "firstname": "Alvin"
   },
   {
     "id": 94,
     "initials": "DLN",
     "lastname": "Larsen",
-    "password": "*0745E5A9A5344BF1F4D7E936550E662AAD1D2BFB",
+    "password": "$2y$10$9XI9uBVilONg8TevtysPVOG70hDyXN6MlBS7joUOmt.m7D3ukcw9u",
     "firstname": "Donovan"
   },
   {
     "id": 95,
     "initials": "LWR",
     "lastname": "Weber",
-    "password": "*D42036ACDA37426F2CEB6011673479E363ACE860",
+    "password": "$2y$10$QaYKqtIf6kpzRgyWN1IFB.a9mMFusyv1Nh5te4GXud7vqf2A.UgD2",
     "firstname": "Levi"
   },
   {
     "id": 96,
     "initials": "HSO",
     "lastname": "Santiago",
-    "password": "*D0FDAD514E293F2485B53F4086610FEE111AECA2",
+    "password": "$2y$10$lc\/eUy5NxNt\/DQZ.8aQuDeNTcW.nhYixf\/TXzokc7v5Q4GOGSe1Fm",
     "firstname": "Hayley"
   },
   {
     "id": 97,
     "initials": "LBD",
     "lastname": "Beard",
-    "password": "*E16AE30995A0D51216325DC1FA371825C3C1DB4A",
+    "password": "$2y$10$.3XluT3N0y01rqyePDuX0u\/.ziugp4sK9l4WP\/DotISsmPgDSDBlG",
     "firstname": "Leslie"
   },
   {
     "id": 98,
     "initials": "RCE",
     "lastname": "Case",
-    "password": "*CAF09F56C898EDA4AB73C0674AF911D871BFF3B1",
+    "password": "$2y$10$.KuVnnQQlBUwFR80LNNuueExPomsqXN2HrqBK0Me4qjpW0UZg7WKS",
     "firstname": "Raya"
   },
   {
     "id": 99,
     "initials": "CDO",
     "lastname": "Delgado",
-    "password": "*701CC8E5C45E528D6373BE3EDDE2F5ECCF334555",
+    "password": "$2y$10$sOSeVa9dTrAxMZiRZb5heOU5V\/.7u9rgNvvK4aaD7TsHOVq0\/Rkje",
     "firstname": "Charles"
   },
   {
     "id": 100,
     "initials": "MCH",
     "lastname": "Cash",
-    "password": "*2A9278176E135A5884FCA2E987954EB8C105D2F1",
+    "password": "$2y$10$i0cgyQlhtTl4Gp1eHX1GK.37umWwI9mqWsXHqTQLjFWIyt5e7J6nS",
     "firstname": "Michelle"
   }
 ]
