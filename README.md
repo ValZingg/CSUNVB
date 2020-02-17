@@ -22,25 +22,50 @@ Le site gère trois types de checklists :
 
 ## Se connecter
 
-En arrivant sur le site, le(la) secouriste est invité(e) à se connecter avec son nom d’utilisateur et mot de passe, ainsi qu'une des 5 bases CSU.
+En arrivant sur le site, le(la) secouriste est invité(e) à se connecter avec ses initiales et son mot de passe, tout en choisissant une des 5 bases CSU.
 
 Une fois connecté(e), le site propose un accès aux trois types de pages (Stup, Todo, Remise), pour la base que le(la) secouriste a sélectionée au login. De plus un message d'avertissement est affiché en cas d'état incorrect de la balance des stupéfiants.
 
 Pour les admins, un accès à la page d’administration est proposé.
 
 ## Gérer des secouristes (admin)
+- Afficher la liste. Clic -> page de détails
+- Chaque secouriste possède des initiales uniques (identifiant naturel, rappelez-vous ICT-104...)
 
-- Login
-- Nouveu secouriste. L'administrateur le crée, il a un status de 'nouveau'. Quand la personne va sur le site pour la première fois, elle va à la page d'activation, où elle définit son mdp
-- Les admins gèrent les secouristes
-  - Donner/Retirer le droit d’administrer (sauf à soi-même)
-  - Choix de la base
+### Nouveau secouriste
+Les visiteurs du site ne peuvent pas s'inscrire sur le site. Lorsqu'un(e) nouveau(lle) secouriste rejoint le CSU:
+
+- L'administrateur crée la personne et lui attribue un mot de passe qu'il choisit. La personne est enregistrée avec un status de 'nouveau'
+- L'administrateur communique les initiales et le mot de passe à la personne
+- Quand la personne va se connecter sur le site, ce dernier reconnaît le status de 'nouveau' et redirige vers la page d'activation
+- La personne définit son mot de passe personnel et passe au status d'actif
+
+### Administrateurs
+Les admins donnent ou retirent le droit d’administrer à un autre utilisateur (mais jamais à soi-même)
 
 ## Gérer une liste de bases (admin)
 - Afficher la liste. Clic -> gérer la base
 - Créer
 - Renommer
 - Supprimer (s’il n’y a plus de données associées)
+
+## Gérer une liste d'ambulances (admin)
+
+Au sein du CSU, les gens utilisent le terme de "Nova" pour désigner une ambulance. Nous utiliserons ce terme court et précis dans la documentation et le code.
+
+- Afficher la liste. Clic -> page de détails (historique d'affectation)
+- Créer
+
+## Gérer les médicaments (admin)
+
+Certains médicaments utilisés par les secouristes sont de puissants stupéfiants. Un contrôle particulièrement strict est exercé sur leur utilisation.
+En particulier, les médicaments livré à une base le sont dans un lot qui porte un numéro d'identification. Le CSU doit pouvoir à tout moment donner l'état des stocks de ces médicaments, mais également dire quand et par quel(s) secouriste(s) ces médicaments ont été utilisés.
+
+Le site permet de
+- Lister les médicaments sous contrôle (Morphine, Fentanyl et Temesta pour commencer)
+- Créer un nouveau médicament
+- Afficher les listes de lots par médicament. Clic -> page de détails des utilisations
+- Créer un lot
 
 ## Gérer une base (admin)
 
