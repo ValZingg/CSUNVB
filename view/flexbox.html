@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flexbox</title>
+    <style>
+        body {
+            font-family: 'Arial';
+        }
+        .week {
+            background-color: #4DB9EE;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            padding: 2px;
+            margin: 2px;
+        }
+        .day {
+            width:13%;
+            background-color: pink;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            padding: 2px;
+            margin: 2px;
+        }
+
+        @media only screen and (max-device-width: 1440px) {
+            .day {
+                width:100%;
+                font-size: 50px;
+            }
+        }
+
+        .hour {
+            background-color: chartreuse;
+            padding: 4px;
+            margin: 2px;
+        }
+        .dayheader {
+            text-align: center;
+            font-size: larger;
+            font-weight: bold;
+            padding: 3px;
+        }
+    </style>
+</head>
+<body>
+<div class="week">
+    <div class="day">
+        <div class="dayheader">Lundi</div>
+        <div class="hour">Do something</div>
+    </div>
+    <div class="day">
+        <div class="dayheader">Mardi</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+    </div>
+    <div class="day">
+        <div class="dayheader">Mercredi</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+    </div>
+    <div class="day">
+        <div class="dayheader">Jeudi</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+    </div>
+    <div class="day">
+        <div class="dayheader">Vendredi</div>
+        <div class="hour">Do something</div>
+    </div>
+    <div class="day">
+        <div class="dayheader">Samedi</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+    </div>
+    <div class="day">
+        <div class="dayheader">Dimanche</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+        <div class="hour">Do something</div>
+    </div>
+</div>
+</body>
+</html>
